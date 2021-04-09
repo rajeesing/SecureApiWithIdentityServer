@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT7M4.5838722S" SolutionTotalViewTime="PT2H34M23.4031239S" SolutionTotalDebugTime="PT12.9003034S">
+  <FileVersion>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </FileVersion>
+  <SolutionFolder>D:\Repositories\quickstart</SolutionFolder>
+  <SolutionCreattionDate>2021-03-31T12:00:42.4114563-05:00</SolutionCreattionDate>
+  <ProjectsCreatedDateList />
+  <SessionTimeList />
+  <LastSessionTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT4.8941307S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\Api\appsettings.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\Api\Api.csproj</ProjectName>
+      <CreatedDate>2021-04-01T06:23:19.334578-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M7.1283362S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>d:\repositories\quickstart\src\IdentityServer\Config.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\IdentityServer\IdentityServer.csproj</ProjectName>
+      <CreatedDate>2021-04-01T06:18:50.0743811-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12.9003034S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-03-31T20:03:32.4642624-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT36.8303166S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\AppData\Local\SourceServer\b7e1e99182a5dff49d38295ffd27345e3da7e1f8104bdd9f5ae61492e17c4371\src\libraries\System.Private.CoreLib\src\System\Runtime\ExceptionServices\ExceptionDispatchInfo.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-03-31T20:03:10.9681656-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT51M19.0645805S" EditActiveTime="PT2M30.704677S">
+      <ModifiedDate>2021-03-31T20:24:23.3128952-05:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\WebClient\Controllers\HomeController.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\WebClient\WebClient.csproj</ProjectName>
+      <CreatedDate>2021-03-31T20:15:55.8825934-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT22.1659544S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>d:\repositories\quickstart\src\Api\Controllers\IdentityController.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\Api\Api.csproj</ProjectName>
+      <CreatedDate>2021-04-01T06:23:22.3135849-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M41.7789452S" EditActiveTime="PT3.806968S">
+      <ModifiedDate>2021-03-31T20:20:38.8849695-05:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\WebClient\Views\Home\Index.cshtml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\WebClient\WebClient.csproj</ProjectName>
+      <CreatedDate>2021-03-31T20:20:25.149781-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7.4228662S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>d:\repositories\quickstart\src\Api\Properties\launchSettings.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\Api\Api.csproj</ProjectName>
+      <CreatedDate>2021-04-01T06:23:57.5787121-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT14M59.1019194S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\IdentityServer\Properties\launchSettings.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\IdentityServer\IdentityServer.csproj</ProjectName>
+      <CreatedDate>2021-04-01T11:02:40.2330048-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT18M19.2449639S" EditActiveTime="PT3M0.4268804S">
+      <ModifiedDate>2021-03-31T20:08:52.8455786-05:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\ConsoleClient\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\ConsoleClient\ConsoleClient.csproj</ProjectName>
+      <CreatedDate>2021-03-31T19:49:56.0288168-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9M57.1582729S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\IdentityServer\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\IdentityServer\IdentityServer.csproj</ProjectName>
+      <CreatedDate>2021-04-01T06:21:04.9976631-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT14.3031719S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\Api\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\Api\Api.csproj</ProjectName>
+      <CreatedDate>2021-04-01T06:23:15.9565795-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8.8089035S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\WebClient\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\WebClient\WebClient.csproj</ProjectName>
+      <CreatedDate>2021-04-01T06:24:17.8931779-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M48.5155298S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\Api\Startup.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\Api\Api.csproj</ProjectName>
+      <CreatedDate>2021-03-31T19:46:32.961323-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT25M10.3368757S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>d:\repositories\quickstart\src\IdentityServer\Startup.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\IdentityServer\IdentityServer.csproj</ProjectName>
+      <CreatedDate>2021-04-01T06:18:10.173172-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT23.6898909S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\WebClient\Startup.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\WebClient\WebClient.csproj</ProjectName>
+      <CreatedDate>2021-04-01T06:24:21.3434178-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT14.6613552S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\IdentityServer\tempkey.jwk</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\IdentityServer\IdentityServer.csproj</ProjectName>
+      <CreatedDate>2021-04-02T22:42:40.0212104-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+  </LastSessionTimeList>
+  <TotalTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT0.3986886S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\Api\Api.csproj</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\Api\Api.csproj</ProjectName>
+      <CreatedDate>2021-03-31T19:40:58.7325071-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12.0082193S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\Api\appsettings.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\Api\Api.csproj</ProjectName>
+      <CreatedDate>2021-03-31T19:34:12.7991153-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M1.7149134S" EditActiveTime="PT40.1014391S">
+      <ModifiedDate>2021-03-31T12:03:14.5204634-05:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\IdentityServer\Config.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\IdentityServer\IdentityServer.csproj</ProjectName>
+      <CreatedDate>2021-03-31T12:01:34.4967554-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12.9003034S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-03-31T20:03:32.4642624-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT36.8303166S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\AppData\Local\SourceServer\b7e1e99182a5dff49d38295ffd27345e3da7e1f8104bdd9f5ae61492e17c4371\src\libraries\System.Private.CoreLib\src\System\Runtime\ExceptionServices\ExceptionDispatchInfo.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-03-31T20:03:10.9681656-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT51M19.0645805S" EditActiveTime="PT2M30.704677S">
+      <ModifiedDate>2021-03-31T20:24:23.3128952-05:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\WebClient\Controllers\HomeController.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\WebClient\WebClient.csproj</ProjectName>
+      <CreatedDate>2021-03-31T20:15:55.8825934-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M19.0070158S" EditActiveTime="PT35.0515598S">
+      <ModifiedDate>2021-03-31T19:37:50.8114124-05:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\Api\Controllers\IdentityController.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\Api\Api.csproj</ProjectName>
+      <CreatedDate>2021-03-31T19:36:37.7889687-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M41.7789452S" EditActiveTime="PT3.806968S">
+      <ModifiedDate>2021-03-31T20:20:38.8849695-05:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\WebClient\Views\Home\Index.cshtml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\WebClient\WebClient.csproj</ProjectName>
+      <CreatedDate>2021-03-31T20:20:25.149781-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M43.1571539S" EditActiveTime="PT8.1050011S">
+      <ModifiedDate>2021-03-31T19:34:47.6261754-05:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\Api\Properties\launchSettings.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\Api\Api.csproj</ProjectName>
+      <CreatedDate>2021-03-31T19:34:19.9141755-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT14M59.1019194S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\IdentityServer\Properties\launchSettings.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\IdentityServer\IdentityServer.csproj</ProjectName>
+      <CreatedDate>2021-04-01T11:02:40.2330048-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT18M19.2449639S" EditActiveTime="PT3M0.4268804S">
+      <ModifiedDate>2021-03-31T20:08:52.8455786-05:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\ConsoleClient\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\ConsoleClient\ConsoleClient.csproj</ProjectName>
+      <CreatedDate>2021-03-31T19:49:56.0288168-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9M57.1582729S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\IdentityServer\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\IdentityServer\IdentityServer.csproj</ProjectName>
+      <CreatedDate>2021-04-01T06:21:04.9976631-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT14.3031719S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\Api\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\Api\Api.csproj</ProjectName>
+      <CreatedDate>2021-04-01T06:23:15.9565795-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8.8089035S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\WebClient\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\WebClient\WebClient.csproj</ProjectName>
+      <CreatedDate>2021-04-01T06:24:17.8931779-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT45M48.0204206S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>3</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\IdentityServer\Startup.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\IdentityServer\IdentityServer.csproj</ProjectName>
+      <CreatedDate>2021-03-31T12:00:53.6083859-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M24.4543925S" EditActiveTime="PT6.3883464S">
+      <ModifiedDate>2021-03-31T19:39:57.9282074-05:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\Api\Startup.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\Api\Api.csproj</ProjectName>
+      <CreatedDate>2021-03-31T19:39:12.055682-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT23.6898909S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\WebClient\Startup.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\WebClient\WebClient.csproj</ProjectName>
+      <CreatedDate>2021-04-01T06:24:21.3434178-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT14.6613552S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\IdentityServer\tempkey.jwk</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\IdentityServer\IdentityServer.csproj</ProjectName>
+      <CreatedDate>2021-04-02T22:42:40.0212104-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+  </TotalTimeList>
+  <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT14.6613552S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\IdentityServer\tempkey.jwk</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\IdentityServer\IdentityServer.csproj</ProjectName>
+      <CreatedDate>2021-04-02T22:42:40.0212104-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT14M59.1019194S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\IdentityServer\Properties\launchSettings.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\IdentityServer\IdentityServer.csproj</ProjectName>
+      <CreatedDate>2021-04-01T11:02:40.2330048-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT23.6898909S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\WebClient\Startup.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\WebClient\WebClient.csproj</ProjectName>
+      <CreatedDate>2021-04-01T06:24:21.3434178-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8.8089035S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\WebClient\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\WebClient\WebClient.csproj</ProjectName>
+      <CreatedDate>2021-04-01T06:24:17.8931779-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7.4228662S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>d:\repositories\quickstart\src\Api\Properties\launchSettings.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\Api\Api.csproj</ProjectName>
+      <CreatedDate>2021-04-01T06:23:57.5787121-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT22.1659544S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>d:\repositories\quickstart\src\Api\Controllers\IdentityController.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\Api\Api.csproj</ProjectName>
+      <CreatedDate>2021-04-01T06:23:22.3135849-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4.8941307S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\Api\appsettings.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\Api\Api.csproj</ProjectName>
+      <CreatedDate>2021-04-01T06:23:19.334578-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT14.3031719S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\Api\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\Api\Api.csproj</ProjectName>
+      <CreatedDate>2021-04-01T06:23:15.9565795-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9M57.1582729S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\IdentityServer\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\IdentityServer\IdentityServer.csproj</ProjectName>
+      <CreatedDate>2021-04-01T06:21:04.9976631-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M7.1283362S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>d:\repositories\quickstart\src\IdentityServer\Config.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\IdentityServer\IdentityServer.csproj</ProjectName>
+      <CreatedDate>2021-04-01T06:18:50.0743811-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT25M10.3308771S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>d:\repositories\quickstart\src\IdentityServer\Startup.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\IdentityServer\IdentityServer.csproj</ProjectName>
+      <CreatedDate>2021-04-01T06:18:10.173172-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M41.7789452S" EditActiveTime="PT3.806968S">
+      <ModifiedDate>2021-03-31T20:20:38.8849695-05:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\WebClient\Views\Home\Index.cshtml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\WebClient\WebClient.csproj</ProjectName>
+      <CreatedDate>2021-03-31T20:20:25.149781-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT51M19.0645805S" EditActiveTime="PT2M30.704677S">
+      <ModifiedDate>2021-03-31T20:24:23.3128952-05:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\WebClient\Controllers\HomeController.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\WebClient\WebClient.csproj</ProjectName>
+      <CreatedDate>2021-03-31T20:15:55.8825934-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12.9003034S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-03-31T20:03:32.4642624-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT36.8303166S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Rajeev\AppData\Local\SourceServer\b7e1e99182a5dff49d38295ffd27345e3da7e1f8104bdd9f5ae61492e17c4371\src\libraries\System.Private.CoreLib\src\System\Runtime\ExceptionServices\ExceptionDispatchInfo.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2021-03-31T20:03:10.9681656-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT18M19.2449639S" EditActiveTime="PT3M0.4268804S">
+      <ModifiedDate>2021-03-31T20:08:52.8455786-05:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\ConsoleClient\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\ConsoleClient\ConsoleClient.csproj</ProjectName>
+      <CreatedDate>2021-03-31T19:49:56.0288168-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M48.5155298S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\Api\Startup.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\Api\Api.csproj</ProjectName>
+      <CreatedDate>2021-03-31T19:46:32.961323-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.3996896S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\Api\Api.csproj</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\Api\Api.csproj</ProjectName>
+      <CreatedDate>2021-03-31T19:40:58.7325071-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT35.9388627S" EditActiveTime="PT6.3883464S">
+      <ModifiedDate>2021-03-31T19:39:57.9282074-05:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\Api\Startup.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\Api\Api.csproj</ProjectName>
+      <CreatedDate>2021-03-31T19:39:12.055682-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT56.8410614S" EditActiveTime="PT35.0515598S">
+      <ModifiedDate>2021-03-31T19:37:50.8114124-05:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\Api\Controllers\IdentityController.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\Api\Api.csproj</ProjectName>
+      <CreatedDate>2021-03-31T19:36:37.7889687-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M35.7342877S" EditActiveTime="PT8.1050011S">
+      <ModifiedDate>2021-03-31T19:34:47.6261754-05:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\Api\Properties\launchSettings.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\Api\Api.csproj</ProjectName>
+      <CreatedDate>2021-03-31T19:34:19.9141755-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7.1140886S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\Api\appsettings.json</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\Api\Api.csproj</ProjectName>
+      <CreatedDate>2021-03-31T19:34:12.7991153-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12.7681979S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\IdentityServer\Startup.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\IdentityServer\IdentityServer.csproj</ProjectName>
+      <CreatedDate>2021-03-31T19:33:47.0055625-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT54.5865772S" EditActiveTime="PT40.1014391S">
+      <ModifiedDate>2021-03-31T12:03:14.5204634-05:00</ModifiedDate>
+      <ModifiedBy>Rajeev</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\IdentityServer\Config.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\IdentityServer\IdentityServer.csproj</ProjectName>
+      <CreatedDate>2021-03-31T12:01:34.4967554-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT20M24.9253773S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>D:\Repositories\quickstart\src\IdentityServer\Startup.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>D:\Repositories\quickstart\src\IdentityServer\IdentityServer.csproj</ProjectName>
+      <CreatedDate>2021-03-31T12:00:53.6083859-05:00</CreatedDate>
+      <ViewedBy>Rajeev</ViewedBy>
+    </DevTrackerDataItem>
+  </HistoryTimeList>
+</DevTrackerData>
